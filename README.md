@@ -1,4 +1,4 @@
 # aoc2022
-My solution for Advent of Code 2022
+Some solution for Advent of Code 2022
 
-**WARNING: Spagetti code included**
+**WARNING: Non-null safety, spagetti code included**
